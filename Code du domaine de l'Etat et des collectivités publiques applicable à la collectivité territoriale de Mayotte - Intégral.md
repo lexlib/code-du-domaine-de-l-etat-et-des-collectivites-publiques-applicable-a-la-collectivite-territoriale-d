@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat et des collectivités publiques applicable à la collectivité territoriale de Mayotte  
-Version Consolidée au 2001-07-11
+Version Consolidée au 2001-07-13
 ## Contenu: 
   - [Partie législative (art. L111-1 à L430-1)](#1)
     - [LIVRE Ier : Composition du domaine (art. L111-1 à L122-11)](#2)
@@ -331,26 +331,32 @@ _Cite_:
 
 ###### Article L122-3
 
-Les dons et legs à la collectivité territoriale de Mayotte et à ses établissements publics sont régis par les dispositions de
-l'article 53 de la loi du 10 ao^ut 1871 modifiée.
+Les dons et legs à la collectivité départementale de Mayotte et à ses établissements publics sont régis par les dispositions
+de l'article L. 3213-6 du code général des collectivités territoriales.
+
+**Nota:**
+
+NOTA : Loi 2001-616 2001-07-11 art. 75 : dans tous les textes législatifs et réglementaires, la référence à la collectivité
+territoriale de Mayotte est remplacée par la référence à Mayotte et la référence à la collectivité territoriale est remplacée
+par la référence à la collectivité départementale.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°1871-08-10 art. 53
 
 _Codifié par_:
 
   - Ordonnance 92-1139 1992-10-12
 
-_Créé par_:
-
-  - Ordonnance no 92-1139 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juillet 1993
-
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 50
+  - Loi n°2001-616 2001-07-11 art. 50 1° JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L3213-6 (V)
 
 
 ###### Article L122-4
@@ -1560,16 +1566,24 @@ _Abrogé par_:
 
 ###### Article L221-12
 
-Pour les opérations autres que celles réalisées par l'exercice du droit de préemption dans une zone d'aménagement différé,
-l'avis doit être formulé dans le délai de trois mois à compter de la date de réception d'une demande d'avis. Ce délai peut
-être prolongé d'un commun accord si la difficulté de localisation des immeubles ou le nombre, la complexité ou la diversité
-des évaluations le nécessitent. En cas de non-respect du délai de trois mois ou du délai prorogé, il peut être procédé à la
-consultation de la commission d'aménagement foncier.
+Pour les opérations autres que celles réalisées par l'exercice du droit de préemption dans les conditions définies aux
+articles L. 210-3 à L. 210-12 du code de l'urbanisme applicable à Mayotte, l'avis doit être formulé dans le délai de trois
+mois à compter de la date de réception d'une demande d'avis. Ce délai peut être prolongé d'un commun accord si la difficulté
+de localisation des immeubles ou le nombre, la complexité ou la diversité des évaluations le nécessitent. En cas de non-
+respect du délai de trois mois ou du délai prorogé, il peut être procédé à la consultation de la commission d'aménagement
+foncier.
 
-Pour les opérations réalisées par exercice du droit de préemption dans une zone d'aménagement différé, l'avis doit être
-formulé dans le délai d'un mois à compter de la date de réception d'une demande d'avis. En cas de non-respect du délai d'un
-mois, il peut être procédé librement à la réalisation de l'opération. Il ne peut être passé outre à un avis défavorable que
-par décision motivée de l'organe délibérant de la personne morale titulaire du droit de préemption.
+Pour les opérations réalisées par exercice du droit de préemption dans les conditions définies aux articles L. 210-3 à L.
+210-12 du code de l'urbanisme applicable à Mayotte, l'avis doit être formulé dans le délai d'un mois à compter de la date de
+réception d'une demande d'avis. En cas de non-respect du délai d'un mois, il peut être procédé librement à la réalisation de
+l'opération. Il ne peut être passé outre à un avis défavorable que par décision motivée de l'organe délibérant de la personne
+morale titulaire du droit de préemption.
+
+**Nota:**
+
+NOTA : Loi 2001-616 2001-07-11 art. 75 : dans tous les textes législatifs et réglementaires, la référence à la collectivité
+territoriale de Mayotte est remplacée par la référence à Mayotte et la référence à la collectivité territoriale est remplacée
+par la référence à la collectivité départementale.
 
 **Liens relatifs à cet article**
 
@@ -1577,9 +1591,17 @@ _Codifié par_:
 
   - Ordonnance 92-1139 1992-10-12
 
-_Créé par_:
+**Liens**:
 
-  - Ordonnance no 92-1139 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juillet 1993
+  - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 50
+
+_Cite_:
+
+  - Code de l'urbanisme L210-3 à L210-12
 
 _Cité par_:
 
@@ -1805,11 +1827,18 @@ Lorsque l'opération immobilière entre dans le champ d'application des articles
 comptables publics d'effectuer les règlements correspondants si la personne morale qui poursuit cette opération ne justifie
 pas :
 
-1° Pour les opérations réalisées par exercice du droit de préemption dans une zone d'aménagement différé, de l'avis et, le
-cas échéant, de la décision de passer outre mentionnés au deuxième alinéa de l'article L. 221-12 ;
+1° Pour les opérations réalisées par exercice du droit de préemption dans les conditions définies aux articles L. 210-3 à L.
+210-12 du code de l'urbanisme applicable à Mayotte, de l'avis et, le cas échéant, de la décision de passer outre mentionnés
+au deuxième alinéa de l'article L. 221-12 ;
 
 2° Pour les autres opérations, de l'avis sur les conditions financières et, le cas échéant, de la décision de passer outre
 mentionnée au dernier alinéa de l'article L. 221-18.
+
+**Nota:**
+
+NOTA : Loi 2001-616 2001-07-11 art. 75 : dans tous les textes législatifs et réglementaires, la référence à la collectivité
+territoriale de Mayotte est remplacée par la référence à Mayotte et la référence à la collectivité territoriale est remplacée
+par la référence à la collectivité départementale.
 
 **Liens relatifs à cet article**
 
@@ -1817,12 +1846,17 @@ _Codifié par_:
 
   - Ordonnance 92-1139 1992-10-12
 
-_Créé par_:
+**Liens**:
 
-  - Ordonnance no 92-1139 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juillet 1993
+  - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 50
 
 _Cite_:
 
+  - Code de l'urbanisme L210-3 à L210-12
   - Code du domaine de l'Etat et des collectivités pub - art. L221-12 (M)
   - Code du domaine de l'Etat et des collectivités publiques applicable à la collectivité territoriale de Mayotte L221-8 à L221-18, L221-12
 
