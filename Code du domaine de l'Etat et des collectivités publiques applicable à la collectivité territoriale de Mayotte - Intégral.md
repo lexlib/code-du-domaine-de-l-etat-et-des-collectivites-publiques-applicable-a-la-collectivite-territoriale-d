@@ -1,87 +1,22 @@
 # Code du domaine de l'Etat et des collectivités publiques applicable à la collectivité territoriale de Mayotte  
-Version Consolidée au 2008-08-30
+Version Consolidée au 2011-11-25
 ## Contenu: 
-  - [Partie législative (art. L122-9 à L410-2)](#1)
-    - [LIVRE Ier : Composition du domaine (art. L122-9)](#2)
-      - [TITRE II : Constitution du domaine (art. L122-9)](#3)
-        - [CHAPITRE II : Domaine privé (art. L122-9)](#4)
-          - [SECTION 5 : Biens vacants et sans ma^itre. (art. L122-9)](#5)
-    - [LIVRE III : Aliénation des biens domaniaux (art. L321-1 à L321-2)](#6)
-      - [TITRE II : Aliénation des biens du domaine privé (art. L321-1 à L321-2)](#7)
-        - [CHAPITRE Ier : Domaine immobilier (art. L321-1 à L321-2)](#8)
-          - [SECTION 1 : Dispositions générales. (art. L321-1 à L321-2)](#9)
-    - [LIVRE IV : Dispositions diverses (art. L410-2)](#10)
-      - [TITRE Ier : Dispositions générales. (art. L410-2)](#11)
+  - [Partie législative (art. L321-1 à L410-2)](#1)
+    - [LIVRE III : Aliénation des biens domaniaux (art. L321-1 à L321-2)](#2)
+      - [TITRE II : Aliénation des biens du domaine privé (art. L321-1 à L321-2)](#3)
+        - [CHAPITRE Ier : Domaine immobilier (art. L321-1 à L321-2)](#4)
+          - [SECTION 1 : Dispositions générales. (art. L321-1 à L321-2)](#5)
+    - [LIVRE IV : Dispositions diverses (art. L410-2)](#6)
+      - [TITRE Ier : Dispositions générales. (art. L410-2)](#7)
 # Partie législative<a id=1></a>
 
-## LIVRE Ier : Composition du domaine<a id=2></a>
+## LIVRE III : Aliénation des biens domaniaux<a id=2></a>
 
-### TITRE II : Constitution du domaine<a id=3></a>
+### TITRE II : Aliénation des biens du domaine privé<a id=3></a>
 
-#### CHAPITRE II : Domaine privé<a id=4></a>
+#### CHAPITRE Ier : Domaine immobilier<a id=4></a>
 
-##### SECTION 5 : Biens vacants et sans ma^itre.<a id=5></a>
-
-###### Article L122-9
-
-Sont définitivement acquis à l'Etat : 
-
-1° Le montant des coupons, intérêts ou dividendes, atteints par la prescription quinquennale ou conventionnelle et afférents
-à des actions, parts de fondateur ou obligations négociables, émises par toute société commerciale ou civile ou par toute
-collectivité soit privée, soit publique, ainsi qu'aux certificats pétroliers créés en exécution du décret n° 57-1025 du 10
-septembre 1957 ; 
-
-2° Les actions, parts de fondateur, obligations et autres valeurs mobilières des m ^ emes collectivités, lorsqu'elles sont
-atteintes par la prescription trentenaire ou conventionnelle ; 
-
-3° Les dépôts de sommes d'argent et, d'une manière générale, tous avoirs en espèces dans les banques, les établissements de
-crédit et tous autres établissements qui reçoivent des fonds en dépots ou en compte ôcourant, lorsque ces dép ^ ots ou avoirs
-n'ont fait l'objet, de la part des ayants droit, d'aucune opération ou réclamation depuis trente années ; 
-
-4° Les dépôts de titres et, d'une manière générale, tous avoirs en titres dans les banques et autres établissements qui
-reçoivent des titres en dépôt ou pour toute autre cause lorsque ces dépôts ou avoirs n'ont fait l'objet, de la part des
-ayants droit, d'aucune opération ou réclamation depuis trente années. 
-
-Les transferts des titres nominatifs acquis à l'Etat dans les conditions prévues par le présent article sont effectués sur la
-production de ces titres et d'une attestation du chef du service de l'administration financière de l'Etat certifiant le droit
-de l'Etat.
-
-**Nota:**
-
-Ordonnance 2006-460 2006-04-21 art. 8 II : L'article L. 122-9 est abrogé à compter du 1er juillet 2006 à l'exception du
-dernier alinéa dont l'abrogation ne prendra effet qu'à compter de la publication de la partie réglementaire du code général
-de la propriété des personnes publiques (25 novembre 2011).
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Date de fin de vigueur indéterminée
-
-_Cite_:
-
-  - Décret n°57-1025 1957-09-10
-
-_Codifié par_:
-
-  - Ordonnance 92-1139 1992-10-12
-
-_Créé par_:
-
-  - Ordonnance no 92-1139 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juillet 1993
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-## LIVRE III : Aliénation des biens domaniaux<a id=6></a>
-
-### TITRE II : Aliénation des biens du domaine privé<a id=7></a>
-
-#### CHAPITRE Ier : Domaine immobilier<a id=8></a>
-
-##### SECTION 1 : Dispositions générales.<a id=9></a>
+##### SECTION 1 : Dispositions générales.<a id=5></a>
 
 ###### Article L321-1
 
@@ -164,9 +99,9 @@ _Cité par_:
   - Code du domaine de l'Etat et des collectivités pub - art. L321-1 (V)
 
 
-## LIVRE IV : Dispositions diverses<a id=10></a>
+## LIVRE IV : Dispositions diverses<a id=6></a>
 
-### TITRE Ier : Dispositions générales.<a id=11></a>
+### TITRE Ier : Dispositions générales.<a id=7></a>
 
 ###### Article L410-2
 
